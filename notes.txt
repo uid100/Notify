@@ -1,0 +1,16 @@
+use configuration files
+https://ballardsoftware.com/adding-appsettings-json-configuration-to-a-net-core-console-application/
+
+get a new guid
+https://www.guidgenerator.com/online-guid-generator.aspx
+
+
+
+sample user secrets file:
+
+{
+  "Email":{
+    "SmtpUsername": "**********@gmail.com",
+    "SmtpPassword": "********"
+  }
+}
